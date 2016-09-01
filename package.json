@@ -1,0 +1,15 @@
+{
+  "name": "knockout.viewmodel",
+  "version": "2.0.3",
+  "description": "The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel.",
+  "main": "knockout.viewmodel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gita.sys.kth.se:Infosys/knockout.viewmodel.git"
+  },
+  "author": "Dave Herren",
+  "license": "MIT"
+}
